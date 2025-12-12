@@ -1,2 +1,2 @@
 # LeetCode-DSA-Java-
-Java-based DSA practice with daily problem-solving from LeetCode.
+This repository contains my daily practice solutions for LeetCode problems, written in Java with a focus on clarity and consistency.
